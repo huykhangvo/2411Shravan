@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/2411Shravan/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=2411Shravan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/2411Shravan/github-readme-activity-graph"><img alt="2411Shravan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=2411Shravan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
