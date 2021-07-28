@@ -64,9 +64,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shravan-v-299a611a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Shravan2411"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/perfect.parameter/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <a href = "https://www.youtube.com/channel/UCy06X-5y3txP2qoKLm5dQHQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
